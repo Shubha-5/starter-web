@@ -1,1 +1,5 @@
-.DS_Store
+/index.html 200
+/somthingelse.html 404
+/hackattempt.php
+*.log
+log/
