@@ -3,3 +3,4 @@
 /hackattempt.php
 *.log
 log/
+*.orig
